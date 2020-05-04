@@ -7,3 +7,4 @@ Change log of D-LPlate
 * Created readme
 * Created gitignore
 * Project has license plates for training
+* Display help message on trying to execute the script

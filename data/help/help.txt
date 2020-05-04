@@ -1,0 +1,7 @@
+Syntax:
+
+python run.py (file_input_path) [file_output_path_data] [file_output_path]
+
+file_put_path: File input path
+file_output_path_data: json output with data about the image
+file_output_path: File input path. This file will have a green square on license plates
