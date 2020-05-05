@@ -11,5 +11,19 @@ if len(sys.argv) == 1 or sys.argv[0] == '-h':
         output = fp.read(-1)
     finally:
         fp.close()
+else:
+    # load intput data
+
+    # load training data
+
+    # preprocess training inputs
+
+    # create our model and train it
+
+    # extract information from test image and evaluate model
+
+    pass
+
 
 print(output)
+
